@@ -1,11 +1,12 @@
 import './App.css'
+import Navbar from './compoents/Navbar'
 
 function App() {
   
 
   return (
     <>
-     <h1>AI</h1>
+   <Navbar />
     </>
   )
 }
